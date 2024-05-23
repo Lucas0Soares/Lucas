@@ -78,7 +78,7 @@ body {
 .contador{
     display: flex;
     justify-content: center;
-    flex-warp: wrap;
+    flex-wrap: wrap;
 }
 .contador-digito{
     padding: 0 16px;
